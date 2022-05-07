@@ -9,7 +9,7 @@ function App() {
   useEffect(() => {
     axios
       .get(
-        "https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=100&page=1&sparkline=false"
+        "https://api.coingecko.com/api/v3/coins/markets?vs_currency=inr&order=market_cap_desc&per_page=500&page=1&sparkline=false"
       )
       .then((res) => {
         setCoins(res.data);
@@ -41,7 +41,7 @@ function App() {
         image={coin.image}
         symbol={coin.symbol}
         marketcap={coin.market_cap}
-        price={coin.current_price}
+        price=  {coin.current_price}
         volume={coin.total_volume}
         priceChange={coin.price_change_percentage_24h}
         />;
