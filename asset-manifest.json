@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Crypto-HCL/static/css/main.10115426.css",
+    "main.js": "/Crypto-HCL/static/js/main.1000bf58.js",
+    "index.html": "/Crypto-HCL/index.html",
+    "main.10115426.css.map": "/Crypto-HCL/static/css/main.10115426.css.map",
+    "main.1000bf58.js.map": "/Crypto-HCL/static/js/main.1000bf58.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10115426.css",
+    "static/js/main.1000bf58.js"
+  ]
+}
