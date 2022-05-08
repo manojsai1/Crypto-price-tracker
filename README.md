@@ -70,6 +70,12 @@ The same process is used by the following companies to track prices of different
 - [CoinMarketcap](https://coinmarketcap.com/)
 - [Coingecko](https://www.coingecko.com/)
 
+## 👨🏻‍💻 Demo ScreenShots
+Desktop View
+
+  ![desktop-view](https://raw.githubusercontent.com/manojsai1/Image-Editor-Code/master/Screenshot%202022-05-08%20at%2012.07.09%20PM.png)
+
+
 
 ## 🚀 About Me
 <img align="right" alt="Coding" height ="200" width="300" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
