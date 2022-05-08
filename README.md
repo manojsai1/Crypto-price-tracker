@@ -40,7 +40,7 @@ To deploy this project run
 ```
 
 
-## Documentation
+## 📜Documentation
 
 [React](https://reactjs.org/docs/getting-started.html)
 
