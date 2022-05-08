@@ -40,7 +40,7 @@ To deploy this project run
 ```
 
 
-## 📜Documentation
+## 📜 Documentation
 
 [React](https://reactjs.org/docs/getting-started.html)
 
@@ -52,9 +52,9 @@ To deploy this project run
 **Server:** Node.js
 
 
-## Used By
+## 🏦 Used By
 
-This similar way to track prices of different cryptocurrencies is used by the following companies:
+The same process is used by the following companies to track prices of different cryptocurrencies  :
 
 - [CoinMarketcap](https://coinmarketcap.com/)
 - [Coingecko](https://www.coingecko.com/)
