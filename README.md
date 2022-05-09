@@ -13,6 +13,12 @@
   </p>
 </div>
 
+## 👨🏻‍💻 Demo ScreenShots
+Desktop View
+
+  ![desktop-view](https://raw.githubusercontent.com/manojsai1/Image-Editor-Code/master/Screenshot%202022-05-08%20at%2012.07.09%20PM.png)
+
+
 ##  💻  Run Locally
 
 Clone the project
@@ -70,10 +76,6 @@ The same process is used by the following companies to track prices of different
 - [CoinMarketcap](https://coinmarketcap.com/)
 - [Coingecko](https://www.coingecko.com/)
 
-## 👨🏻‍💻 Demo ScreenShots
-Desktop View
-
-  ![desktop-view](https://raw.githubusercontent.com/manojsai1/Image-Editor-Code/master/Screenshot%202022-05-08%20at%2012.07.09%20PM.png)
 
 
 
