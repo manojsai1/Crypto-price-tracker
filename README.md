@@ -24,13 +24,13 @@ Desktop View
 Clone the project
 
 ```bash
-  git clone https://github.com/manojsai1/Crypto-HCL
+  git clone https://github.com/manojsai1/Crypto-price-tracker
 ```
 
 Go to the project directory
 
 ```bash
-  cd Crypto-HCL
+  cd Crypto-price tracker
 ```
 
 Install dependencies
